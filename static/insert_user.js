@@ -1,4 +1,4 @@
-const ip ='34.203.234.104:666';
+const ip ='3.95.243.130:666';
 
 // Detecta cuando se envía el formulario
 document.getElementById("userform").addEventListener("submit", async (e) => {
